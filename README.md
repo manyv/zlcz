@@ -1,2 +1,2 @@
 # zlcz
-internship experience
+This codebase is used to store projects written during internships.
